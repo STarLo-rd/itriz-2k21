@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/college-event/static/css/main.19aa9862.chunk.css",
-    "main.js": "/college-event/static/js/main.df85ac1c.chunk.js",
-    "main.js.map": "/college-event/static/js/main.df85ac1c.chunk.js.map",
-    "runtime-main.js": "/college-event/static/js/runtime-main.7fdbf18c.js",
-    "runtime-main.js.map": "/college-event/static/js/runtime-main.7fdbf18c.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/college-event/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.ccd07ff9.chunk.js": "/college-event/static/js/2.ccd07ff9.chunk.js",
-    "static/js/2.ccd07ff9.chunk.js.map": "/college-event/static/js/2.ccd07ff9.chunk.js.map",
-    "index.html": "/college-event/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/college-event/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.19aa9862.chunk.css.map": "/college-event/static/css/main.19aa9862.chunk.css.map",
-    "static/js/2.ccd07ff9.chunk.js.LICENSE.txt": "/college-event/static/js/2.ccd07ff9.chunk.js.LICENSE.txt",
-    "static/media/Ellipse 4.32de2723.svg": "/college-event/static/media/Ellipse 4.32de2723.svg",
-    "static/media/index.css": "/college-event/static/media/hero1.af266b54.jpg",
-    "static/media/bitbybit.css": "/college-event/static/media/hero4.df97658b.jpg"
+    "main.css": "/college-events/static/css/main.e9f6c78d.chunk.css",
+    "main.js": "/college-events/static/js/main.df85ac1c.chunk.js",
+    "main.js.map": "/college-events/static/js/main.df85ac1c.chunk.js.map",
+    "runtime-main.js": "/college-events/static/js/runtime-main.e0da67ca.js",
+    "runtime-main.js.map": "/college-events/static/js/runtime-main.e0da67ca.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/college-events/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.8ce2eb47.chunk.js": "/college-events/static/js/2.8ce2eb47.chunk.js",
+    "static/js/2.8ce2eb47.chunk.js.map": "/college-events/static/js/2.8ce2eb47.chunk.js.map",
+    "index.html": "/college-events/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/college-events/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.e9f6c78d.chunk.css.map": "/college-events/static/css/main.e9f6c78d.chunk.css.map",
+    "static/js/2.8ce2eb47.chunk.js.LICENSE.txt": "/college-events/static/js/2.8ce2eb47.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 4.32de2723.svg": "/college-events/static/media/Ellipse 4.32de2723.svg",
+    "static/media/index.css": "/college-events/static/media/hero1.af266b54.jpg",
+    "static/media/bitbybit.css": "/college-events/static/media/hero4.df97658b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fdbf18c.js",
+    "static/js/runtime-main.e0da67ca.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.ccd07ff9.chunk.js",
-    "static/css/main.19aa9862.chunk.css",
+    "static/js/2.8ce2eb47.chunk.js",
+    "static/css/main.e9f6c78d.chunk.css",
     "static/js/main.df85ac1c.chunk.js"
   ]
 }
